@@ -1,0 +1,35 @@
+{
+  "name": "venombtx-gas-convert-sub",
+  "version": "1.0.0",
+  "description": "venombtx-gas-convert-sub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bethomxoai/venombtx-gas-convert-sub.git"
+  },
+  "keywords": [
+    "venombtx-gas-convert-sub",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "Bethomxoai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bethomxoai/venombtx-gas-convert-sub/issues"
+  },
+  "homepage": "https://github.com/Bethomxoai/venombtx-gas-convert-sub#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "venombtx-gas-convert-sub": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2"
+  }
+}
